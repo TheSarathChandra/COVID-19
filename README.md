@@ -1,2 +1,2 @@
 # COVID19
-Predecting Covid19 Spread
+Predecting Covid19 Spread using Machine Learning
