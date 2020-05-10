@@ -1,2 +1,2 @@
 # COVID19
-Predecting Covid19 Spread using Machine Learning
+Data Visualization & Predecting Covid19 Spread in a State, India & World using Machine Learning
